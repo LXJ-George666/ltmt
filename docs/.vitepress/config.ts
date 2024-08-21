@@ -26,7 +26,8 @@ export default defineConfig({
       {
         // text: 'Guide',
         items: [
-          { text: 'Example', link: '/example' },
+          { text: '准备环境', link: '/准备环境' },
+          { text: '介绍', link: '/介绍' },
           // ...
         ],
       },
