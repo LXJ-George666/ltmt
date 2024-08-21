@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress';
 // refer https://vitepress.dev/reference/site-config for details
 export default defineConfig({
   lang: 'zh-CN',
-  title: 'Lt Markdown 教程',
+  title: 'Markdown 教程',
   description: 'LXJ tEam Markdown 教程',
 
   themeConfig: {
