@@ -8,10 +8,7 @@ export default defineConfig({
 
   themeConfig: {
     nav: [
-      { text: '准备环境', link: '/准备环境' },
       { text: '介绍', link: '/介绍' },
-      { text: '标题', link: '/标题' },
-      { text: '联系方式', link: '/联系方式' },
 
       // {
       //   text: 'Dropdown Menu',
