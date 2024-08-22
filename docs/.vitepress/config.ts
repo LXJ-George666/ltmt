@@ -31,5 +31,8 @@ export default defineConfig({
         ],
       },
     ],
+    base: '/', // 如果部署在子目录，改为 '/your-subdirectory/'
+    // ... 其他配置
   },
 });
+
