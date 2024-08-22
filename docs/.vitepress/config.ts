@@ -17,7 +17,7 @@ export default defineConfig({
       {
         // text: 'Guide',
         items: [
-          { text: 'Example', link: '/example' },
+          { text: '准备环境', link: '/准备环境' },
           // ... 其他侧边栏项
         ],
       },
