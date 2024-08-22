@@ -9,7 +9,7 @@ export default defineConfig({
 
   themeConfig: {
     nav: [
-      { text: 'Example', link: '/example' },
+      { text: '联系方式', link: '/联系方式' },
       // ... 其他导航项
     ],
 
