@@ -18,6 +18,9 @@ export default defineConfig({
         // text: 'Guide',
         items: [
           { text: '准备环境', link: '/准备环境' },
+          { text: '介绍 Markdown', link: '/介绍 Markdown' },
+          { text: 'Markdown 标题', link: '/Markdown 标题' },
+          //{ text: '', link: '/' },
           // ... 其他侧边栏项
         ],
       },
