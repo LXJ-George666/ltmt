@@ -7,6 +7,7 @@ export default defineConfig({
   description: 'LXJ tEam Markdown 教程',
 
   themeConfig: {
+    base: '/', // 如果部署在子目录，改为 '/your-subdirectory/'
     nav: [
       { text: 'Example', link: '/example' },
 
@@ -31,8 +32,16 @@ export default defineConfig({
         ],
       },
     ],
-    base: '/', // 如果部署在子目录，改为 '/your-subdirectory/'
-    // ... 其他配置
+    vite: {
+      resolve: {
+        alias: [
+          {
+            find: /^.*\/assetsfile\/(.*)$/,
+            replacement: '/src/docs/assetsfile/$1'
+          }
+        ]
+      }
+    }
   },
 });
 
