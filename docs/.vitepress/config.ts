@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress';
 
 // refer https://vitepress.dev/reference/site-config for details
 export default defineConfig({
-  lang: 'zh-CN',
+  lang: 'zh',
   title: 'Markdown 教程',
   description: 'LXJ tEam Markdown 教程',
   base: '/', // 如果部署在子目录，改为 '/your-subdirectory/'
