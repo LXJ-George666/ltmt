@@ -11,8 +11,12 @@
             "id": "3a28a7886301d51f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "介绍 Markdown.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "介绍 Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "介绍 Markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "介绍 Markdown.md"
+              }
             }
           }
         ]
@@ -139,5 +147,10 @@
     }
   },
   "active": "3a28a7886301d51f",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "联系方式.md",
+    "准备环境.md",
+    "index.md",
+    "Markdown 标题.md"
+  ]
 }
