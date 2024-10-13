@@ -18,9 +18,7 @@ export default defineConfig({
       {
         // text: 'Guide',
         items: [
-          { text: 'LXJ tEam News', link: '/LtN' },
-          { text: '介绍 Markdown', link: '/介绍 Markdown' },
-          { text: 'Markdown 标题', link: '/Markdown 标题' },
+          { text: 'LXJ tEam News', link: '/LtN.md' },
           //{ text: '', link: '/' },
           // ... 其他侧边栏项
         ],
