@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "介绍 Markdown.md",
+                "file": "Markdown 标题.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "介绍 Markdown.md",
+                "file": "Markdown 标题.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "介绍 Markdown.md",
+                "file": "Markdown 标题.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "介绍 Markdown.md"
+                "file": "Markdown 标题.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "3a28a7886301d51f",
   "lastOpenFiles": [
-    "联系方式.md",
     "准备环境.md",
+    "Markdown 标题.md",
     "index.md",
-    "Markdown 标题.md"
+    "联系方式.md",
+    "介绍 Markdown.md"
   ]
 }
