@@ -8,5 +8,22 @@
   },
   "devDependencies": {
     "vitepress": "latest"
-  }
+  },
+  "name": "ltmt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LXJGZS/ltmt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LXJGZS/ltmt/issues"
+  },
+  "homepage": "https://github.com/LXJGZS/ltmt#readme",
+  "description": ""
 }
