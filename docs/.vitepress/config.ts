@@ -30,8 +30,8 @@ export default defineConfig({
     resolve: {
       alias: [
         {
-          find: /^.*\/assetsfile\/(.*)$/,
-          replacement: '/src/docs/assetsfile/$1'
+          find: /^.*\/assetsfiles\/(.*)$/,
+          replacement: '/src/docs/assetsfiles/$1'
         }
       ]
     }
