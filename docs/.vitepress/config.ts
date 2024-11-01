@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress';
 
 // refer https://vitepress.dev/reference/site-config for details
 export default defineConfig({
-  lang: 'zh',
-  title: '视频音频展示',
+  lang: 'Zh-CN',
+  title: '电子展示柜',
   description: '',
   //logo: '/logo.svg',
   base: '/', // 如果部署在子目录，改为 '/your-subdirectory/'
