@@ -18,7 +18,7 @@ export default defineConfig({
       {
         // text: 'Guide',
         items: [
-          { text: 'LXJ tEam News', link: '/LtN.md' },
+          { text: '音乐', link: '/MusicShow.md' },
           //{ text: '', link: '/' },
           // ... 其他侧边栏项
         ],
