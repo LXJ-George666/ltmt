@@ -18,7 +18,7 @@ export default defineConfig({
       {
         // text: 'Guide',
         items: [
-          { text: '音乐', link: '/MusicShow.md' },
+          { text: '明天会更好', link: '/hthgh' },
           //{ text: '', link: '/' },
           // ... 其他侧边栏项
         ],
