@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress';
 
 // refer https://vitepress.dev/reference/site-config for details
 export default defineConfig({
-  lang: 'Zh-CN',
+  lang: 'cn',
   title: '电子展示柜',
   description: '',
   //logo: '/logo.svg',
